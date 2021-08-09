@@ -1,4 +1,4 @@
-# Image-Segmentation-Using-Gaussian-Mixture-Model-with-PyTorch
+# Image Segmentation Using Gaussian Mixture Model with PyTorch
 
 ## Environment
 

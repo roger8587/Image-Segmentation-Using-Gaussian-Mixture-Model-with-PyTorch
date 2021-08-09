@@ -16,4 +16,7 @@ You can see the derivation of the mathematical formula on the following webpage(
 ![Original Image](hw3_3.jpeg)
 K = 5                         | K = 7 
 :-----:                       |:-----:
-![Original Image](hw3_3.jpeg) | ![Original Image](hw3_3.jpeg) 
+![Original Image](result/k-means(pytorch)_5.png) | ![Original Image](result/k-means(pytorch)_7.png) 
+K = 10                        | K = 15
+:-----:                       |:-----:
+![Original Image](result/k-means(pytorch)_10.png) | ![Original Image](result/k-means(pytorch)_15.png)

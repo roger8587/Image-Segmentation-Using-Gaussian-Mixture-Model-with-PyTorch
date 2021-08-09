@@ -14,8 +14,15 @@ You can see the derivation of the mathematical formula on the following webpage(
 * Gaussian Mixture Model: https://roger010620.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-em%E6%BC%94%E7%AE%97%E6%B3%95-expectation-maximization-algorithm-%E4%B8%89-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%92%8C%E6%A8%A1%E5%9E%8Bgaussian-mixture-model-gmm-84286c2d64c7
 ## Original Image
 ![Original Image](hw3_3.jpeg)
+## K means output
 K = 5                         | K = 7 
 :-----:                       |:-----:
 ![Original Image](result/k-means(pytorch)_5.png) | ![Original Image](result/k-means(pytorch)_7.png) 
 K = 10                        | K = 15
 ![Original Image](result/k-means(pytorch)_10.png) | ![Original Image](result/k-means(pytorch)_15.png)
+## GMM output
+K = 5                         | K = 7 
+:-----:                       |:-----:
+![Original Image](result/GMM_5.png) | ![Original Image](result/GMM_7.png) 
+K = 10                        | K = 15
+![Original Image](result/GMM_10.png) | ![Original Image](result/GMM_15.png)

@@ -15,12 +15,14 @@ You can see the derivation of the mathematical formula on the following webpage(
 ## Original Image
 ![Original Image](hw3_3.jpeg)
 ## K means output
+K-means will first compute k (user defined) mean values of the input image and output the same image except the pixel values are scale to the nearest mean.
 K = 5                         | K = 7 
 :-----:                       |:-----:
 ![Original Image](result/k-means(pytorch)_5.png) | ![Original Image](result/k-means(pytorch)_7.png) 
 K = 10                        | K = 15
 ![Original Image](result/k-means(pytorch)_10.png) | ![Original Image](result/k-means(pytorch)_15.png)
 ## GMM output
+Using the means from k-means as initial value for GMM, after perform EM algorithm, output the image scale to the most probable mean value.
 K = 5                         | K = 7 
 :-----:                       |:-----:
 ![Original Image](result/GMM_5.png) | ![Original Image](result/GMM_7.png) 

@@ -14,8 +14,8 @@ You can see the derivation of the mathematical formula on the following webpage(
 * Gaussian Mixture Model: https://roger010620.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-em%E6%BC%94%E7%AE%97%E6%B3%95-expectation-maximization-algorithm-%E4%B8%89-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%92%8C%E6%A8%A1%E5%9E%8Bgaussian-mixture-model-gmm-84286c2d64c7
 ## Original Image
 ![Original Image](hw3_3.jpeg)
-Age           | Time  | Food | Gold | Requirement
---------------|:-----:|-----:| ----:|------------------------
-Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
-Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
-Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2   
+K = 5         | K = 7 
+--------------|:-----:
+Feudal Age    | 02:10 
+Castle Age    | 02:40 
+Imperial Age  | 03:30    
